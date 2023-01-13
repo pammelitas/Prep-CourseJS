@@ -1,0 +1,7 @@
+Tarea 1
+
+Variable: La utilizamos para almacenar diferentes tipos de datos y le asignamos un valor.
+Strings: Tipo de dato, cadena de texto que siempre va entre comillas.
+Funciones (argumentos, return): Permiten ejecutar bloques de código, los argumentos son los parámetros que le asignamos y el return devuelve el valor para poderlo reutilizar posteriormente.
+Declaraciones if: Son condicionales que si se cumplen, ejecutarán nuestro código (true) o (false)
+Valores booleanos: Determinan si una condición es true o false. (Números binarios).
