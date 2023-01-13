@@ -1,0 +1,6 @@
+Tarea 2
+Ciclo For: Bucle de iteración que permite iterar cierto número de veces una sentencia o condición hasta que la condición evaluada se vuelva false.
+
+&&: Operador AND, permite comparar valores, si todas las condiciones se cumplen, la sentencia se vuelve true.
+||: Operador OR, permite comparar valores, si alguna de las condiciones se cumple, la sentencia se vuelve true.
+!: Operador NOT, compara valores invirtiendo su condición, si es true, ahora será false y viceversa.
