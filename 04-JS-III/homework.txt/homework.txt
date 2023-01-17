@@ -1,0 +1,3 @@
+Tarea
+
+Array: Un arreglo es un conjunto de índices donde almacenamos cualquier tipo de dato. Los índices se empiezan a contar desde el 0 en adelante, independientemente del valor almacenado.
